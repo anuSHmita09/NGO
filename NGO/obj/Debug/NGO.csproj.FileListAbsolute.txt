@@ -1,0 +1,13 @@
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.csproj.AssemblyReference.cache
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.Form1.resources
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.Properties.Resources.resources
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.csproj.GenerateResource.cache
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.csproj.CoreCompileInputs.cache
+C:\Users\anush\source\repos\NGO\NGO\bin\Debug\NGO.mdf
+C:\Users\anush\source\repos\NGO\NGO\bin\Debug\NGO_log.ldf
+C:\Users\anush\source\repos\NGO\NGO\bin\Debug\NGO.exe.config
+C:\Users\anush\source\repos\NGO\NGO\bin\Debug\NGO.exe
+C:\Users\anush\source\repos\NGO\NGO\bin\Debug\NGO.pdb
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.exe
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.pdb
+C:\Users\anush\source\repos\NGO\NGO\obj\Debug\NGO.Form2.resources
